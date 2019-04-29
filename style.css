@@ -1,0 +1,11 @@
+.fix-card{
+    height:400px;
+}
+.button-card{
+    bottom: 0;
+    
+}
+.selected{
+    background-color:red;
+    color:white;
+}
